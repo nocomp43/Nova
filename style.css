@@ -1,0 +1,48 @@
+*{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+body{
+background: linear-gradient(rgba(65, 0, 147), rgba(65, 0, 148));
+}
+
+.Header{
+  text-align: center;
+  color: white;
+}
+.Header:hover{
+  text-decoration: underline;
+}
+.h3Welcome{
+  color: white ;
+}
+.container1{
+  background-color: white;
+  height: 360px;
+  width: 300px;
+  font: small-caps;
+  padding: 10px;
+  border-radius: 10px;
+
+}
+
+.container2{
+  background-color: white;
+  height: auto;
+  width: 300px;
+  padding: 10px;
+  border-radius: 10px;
+  -webkit-user-drag: auto;
+}
+
+.container3{
+    transform: translateX(50%);
+}
+
+
+
+
+
+
+
+
+
